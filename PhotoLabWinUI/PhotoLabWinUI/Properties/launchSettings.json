@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PhotoLabWinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PhotoLabWinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
