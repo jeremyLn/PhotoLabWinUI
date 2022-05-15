@@ -20,3 +20,5 @@ with
 ```
 System.IO.Directory.GetCurrentDirectory() + "\\Assets\\Samples";
 ```
+and runtime install
+https://docs.microsoft.com/en-US/windows/apps/windows-app-sdk/deploy-unpackaged-apps
