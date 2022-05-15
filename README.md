@@ -10,13 +10,13 @@ for unpackaged setting,
 
 instead of  
 
-:::info
+```
 StorageFolder appInstalledFolder = Package.Current.InstalledLocation;
 StorageFolder picturesFolder = await appInstalledFolder.GetFolderAsync("Assets\\Samples");
-:::
+```
 
 with 
 
-:::info
+```
 System.IO.Directory.GetCurrentDirectory() + "\\Assets\\Samples";
-:::
+```
